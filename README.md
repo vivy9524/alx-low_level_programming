@@ -1,1 +1,2 @@
-this is a readme file for c-debugging
+this is a readme file for 0x0E. C - Structures, typedef
+C
